@@ -1,7 +1,5 @@
 # my-website
 Hi, This is Amit
 
-Now editing on update-readme branch
-
-Updated locally
+Updated made on main on GitHUB before rebase
 
